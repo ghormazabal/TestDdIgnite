@@ -63,7 +63,7 @@
                         <property name="addresses">
                             <list>
                                 <!-- In distributed environment, replace with actual host IP address. -->
-                                <value>172.29.111.225:47500..47509</value>
+                                <value>172.29.111.223:47500..47509</value>
                             </list>
                         </property>
                     </bean>
